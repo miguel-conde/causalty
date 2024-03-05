@@ -1,0 +1,7 @@
+---
+title: "Notas causalidad"
+format: html
+---
+
+* [Tigramite – Causal inference for time series datasets](https://github.com/jakobrunge/tigramite)
+* [Causality Lab](https://github.com/IntelLabs/causality-lab)
